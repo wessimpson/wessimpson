@@ -61,14 +61,6 @@
 </picture>
 <br/><br/>
 <div align="center">
-<!-- ─── Tech Stack ───────────────────────────────────────────── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-tech-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-tech-light.png">
-  <img alt="Tech Stack" src="./assets/header-tech-dark.png" width="600">
-</picture>
-<br/><br/>
-<div align="center">
 <p><strong>Languages</strong></p>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
