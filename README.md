@@ -8,6 +8,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/wes-s-simpson"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/SimpsonWes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://github.com/wessimpson"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <br/>
@@ -20,6 +21,7 @@ location: New York City
 education: B.S. Computer Science & Minor in Finance @ NYU Tandon
 current_roles:
   - Software Engineer @ Occupi
+  - Full-Stack Developer @ Curations by Patti
 founded: Tech 4 Teens — nonprofit refurbishing laptops for underserved students
 interests: [AI, Prediction Markets, Trading Systems, Full-Stack Development]
 ```
@@ -27,6 +29,7 @@ interests: [AI, Prediction Markets, Trading Systems, Full-Stack Development]
 - 🔭 Currently building at **[Occupi](https://github.com/Occupi-App)** and contributing to **[MedLinkX](https://github.com/MedLinkX)** & **[Child-Focus-NJ](https://github.com/Child-Focus-NJ)**
 - 🌱 Exploring **AI orchestration systems**, **recursive coding agents**, and **constraint optimization**
 - 🏗️ Founded **Tech 4 Teens** — refurbished and distributed laptops to students in need
+- ⚡ Fun fact: I competed in the **Hull Tactical Market Prediction Competition** on Kaggle, engineering 370+ predictive features
 
 ---
 
@@ -69,7 +72,7 @@ interests: [AI, Prediction Markets, Trading Systems, Full-Stack Development]
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wessimpson&show_icons=true&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=c9d1d9&count_private=true&ring_color=238636" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-statss-plum.vercel.app/api?username=wessimpson&show_icons=true&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=c9d1d9&count_private=true&ring_color=238636" height="180" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
