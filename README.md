@@ -20,7 +20,6 @@ location: New York City
 education: B.S. Computer Science & Minor in Finance @ NYU Tandon
 current_roles:
   - Software Engineer @ Occupi
-  - Full-Stack Developer @ Curations by Patti
 founded: Tech 4 Teens — nonprofit refurbishing laptops for underserved students
 interests: [AI, Prediction Markets, Trading Systems, Full-Stack Development]
 ```
@@ -28,7 +27,7 @@ interests: [AI, Prediction Markets, Trading Systems, Full-Stack Development]
 - 🔭 Currently building at **[Occupi](https://github.com/Occupi-App)** and contributing to **[MedLinkX](https://github.com/MedLinkX)** & **[Child-Focus-NJ](https://github.com/Child-Focus-NJ)**
 - 🌱 Exploring **AI orchestration systems**, **recursive coding agents**, and **constraint optimization**
 - 🏗️ Founded **Tech 4 Teens** — refurbished and distributed laptops to students in need
-- ⚡ Fun fact: I competed in the **Hull Tactical Market Prediction Competition** on Kaggle, engineering 370+ predictive features
+
 
 ---
 
