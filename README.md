@@ -21,7 +21,6 @@ location: New York City
 education: B.S. Computer Science & Minor in Finance @ NYU Tandon
 current_roles:
   - Software Engineer @ Occupi
-  - Full-Stack Developer @ Curations by Patti
 founded: Tech 4 Teens — nonprofit refurbishing laptops for underserved students
 interests: [AI, Prediction Markets, Trading Systems, Full-Stack Development]
 ```
