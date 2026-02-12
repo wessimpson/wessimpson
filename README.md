@@ -64,27 +64,66 @@
 <div align="center">
 
 <p><strong>Languages</strong></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,ruby,rust,java,mysql,c,cpp,go,bash,html,css,graphql&theme=dark&perline=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,ruby,rust,java,mysql,c,cpp,go,bash,html,css,graphql&theme=light&perline=7">
-  <img alt="Languages" src="https://skillicons.dev/icons?i=js,ts,py,ruby,rust,java,mysql,c,cpp,go,bash,html,css,graphql&theme=dark&perline=7"/>
-</picture>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" alt="TypeScript"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ruby&theme=dark" width="48" alt="Ruby"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" alt="Rust"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="SQL"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" alt="C"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" alt="C++"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" alt="Go"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" alt="Bash"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" alt="GraphQL"/></a>
+</p>
 
-<br/><br/>
 <p><strong>Frameworks & Libraries</strong></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,rails,nodejs,tailwind,express,fastapi,flask,django,vue,threejs,pytorch,tensorflow,sklearn,selenium,jest&theme=dark&perline=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,rails,nodejs,tailwind,express,fastapi,flask,django,vue,threejs,pytorch,tensorflow,sklearn,selenium,jest&theme=light&perline=8">
-  <img alt="Frameworks & Libraries" src="https://skillicons.dev/icons?i=react,nextjs,rails,nodejs,tailwind,express,fastapi,flask,django,vue,threejs,pytorch,tensorflow,sklearn,selenium,jest&theme=dark&perline=8"/>
-</picture>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" alt="Next.js"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=rails&theme=dark" width="48" alt="Rails"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="Node.js"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" alt="Express"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" alt="FastAPI"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" alt="Flask"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" alt="Django"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" alt="Vue.js"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="48" alt="Three.js"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" alt="PyTorch"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" alt="TensorFlow"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" alt="scikit-learn"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="48" alt="Selenium"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=jest&theme=dark" width="48" alt="Jest"/></a>
+</p>
 
-<br/><br/>
 <p><strong>Tools & Platforms</strong></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,aws,docker,vercel,postgres,mongodb,redis,sqlite,supabase,gcp,heroku,terraform,githubactions,linux,postman,figma,notion,vscode,cloudflare,stripe&theme=dark&perline=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,aws,docker,vercel,postgres,mongodb,redis,sqlite,supabase,gcp,heroku,terraform,githubactions,linux,postman,figma,notion,vscode,cloudflare,stripe&theme=light&perline=10">
-  <img alt="Tools & Platforms" src="https://skillicons.dev/icons?i=git,aws,docker,vercel,postgres,mongodb,redis,sqlite,supabase,gcp,heroku,terraform,githubactions,linux,postman,figma,notion,vscode,cloudflare,stripe&theme=dark&perline=10"/>
-</picture>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" alt="AWS"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" alt="MongoDB"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" alt="Redis"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" alt="SQLite"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" alt="Supabase"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" alt="GCP"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=heroku&theme=dark" width="48" alt="Heroku"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48" alt="Terraform"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" alt="GitHub Actions"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" alt="Linux"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" alt="Notion"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" alt="Cloudflare"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=stripe&theme=dark" width="48" alt="Stripe"/></a>
+</p>
 
 </div>
 <!-- ─── GitHub Stats ─────────────────────────────────────────── -->
