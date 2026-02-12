@@ -72,19 +72,7 @@ interests: [AI, Prediction Markets, Trading Systems, Full-Stack Development]
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-statss-plum.vercel.app/api?username=wessimpson&show_icons=true&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=c9d1d9&count_private=true&ring_color=238636" height="180" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=wessimpson&hide_border=true&background=0d1117&ring=238636&fire=238636&currStreakNum=c9d1d9&currStreakLabel=238636&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wessimpson&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
