@@ -1,14 +1,13 @@
 <!-- Header -->
 <div align="center">
   <a href="https://github.com/wessimpson">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Wes+Simpson;CS+%40+NYU+Tandon+%7C+SWE+%40+Occupi+%7C+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Wes+Simpson;CS+%40+NYU+Tandon+%7C+SWE+%40+Occupi+%7C+Builder" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wes-s-simpson"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/SimpsonWes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://github.com/wessimpson"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <br/>
@@ -21,7 +20,6 @@ location: New York City
 education: B.S. Computer Science & Minor in Finance @ NYU Tandon
 current_roles:
   - Software Engineer @ Occupi
-  - Full-Stack Developer @ Curations by Patti
 founded: Tech 4 Teens — nonprofit refurbishing laptops for underserved students
 interests: [AI, Prediction Markets, Trading Systems, Full-Stack Development]
 ```
@@ -29,7 +27,7 @@ interests: [AI, Prediction Markets, Trading Systems, Full-Stack Development]
 - 🔭 Currently building at **[Occupi](https://github.com/Occupi-App)** and contributing to **[MedLinkX](https://github.com/MedLinkX)** & **[Child-Focus-NJ](https://github.com/Child-Focus-NJ)**
 - 🌱 Exploring **AI orchestration systems**, **recursive coding agents**, and **constraint optimization**
 - 🏗️ Founded **Tech 4 Teens** — refurbished and distributed laptops to students in need
-- ⚡ Fun fact: I competed in the **Hull Tactical Market Prediction Competition** on Kaggle, engineering 370+ predictive features
+
 
 ---
 
@@ -72,24 +70,12 @@ interests: [AI, Prediction Markets, Trading Systems, Full-Stack Development]
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wessimpson&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wessimpson&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wessimpson&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wessimpson&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=wessimpson&hide_border=true&background=0d1117&ring=238636&fire=238636&currStreakNum=c9d1d9&currStreakLabel=238636&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wessimpson&style=flat-square&color=58a6ff" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=wessimpson&style=flat-square&color=238636" alt="Profile Views"/>
 </div>
+
